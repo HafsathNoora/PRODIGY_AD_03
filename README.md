@@ -1,16 +1,53 @@
-# stopwatch
+#  Stopwatch App
 
-A new Flutter project.
+A sleek and functional Stopwatch app built using **Flutter**, created for **Task 03** of the **Prodigy InfoTech Android Development Internship**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Features
 
-A few resources to get you started if this is your first Flutter project:
+- Start the timer
+- Pause/Resume the timer
+- Reset the timer
+- Displays minutes, seconds, and milliseconds
+- Smooth and user-friendly UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  Tech Stack
+
+- **Flutter**
+- **Dart**
+- **VS Code / Android Studio**
+- **Git & GitHub**
+
+---
+
+##  Folder Structure
+
+stopwatch/
+├── android/  
+├── ios/  
+├── lib/  
+│   └── main.dart  
+├── test/  
+├── pubspec.yaml  
+└── README.md  
+
+---
+
+## 📷 Screenshots
+
+> *(Insert screenshots here after uploading them in GitHub Issues or directly to README using drag & drop)*  
+> ![App UI]() *(optional)*
+
+---
+
+## 🔧 Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/HafsathNoora/PRODIGY_AD_03.git
+   cd PRODIGY_AD_03
+   flutter pub get
+   flutter run
