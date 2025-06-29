@@ -36,9 +36,9 @@ stopwatch/
 
 ---
 
-## 📷 Screenshots
+##  Screenshots
 
-> *(Insert screenshots here after uploading them in GitHub Issues or directly to README using drag & drop)*  
+  
 > ![App UI]() *(optional)*
 
 ---
